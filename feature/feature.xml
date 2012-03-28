@@ -3,21 +3,21 @@
       id="org.playframework.playclipse.feature"
       label="Playclipse"
       version="0.7.0"
-      provider-name="Zenexity">
+      provider-name="Play Framework">
 
-   <description url="http://github.com/erwan/playclipse">
+   <description url="http://github.com/playframework/playclipse">
    
       This feature provides editors and wizards to work with the play framework.
 
    </description>
 
-   <copyright url="http://www.zenexity.fr">
-   Copyright (c) 2010, 2012 Zenexity
+   <copyright url="http://www.playframework.org">
+   Copyright (c) 2010, 2012 Play Framework developers
 
    Contributors:
-
       Erwan Loisant
-      Mariot Chauvin 
+      Guillaume Bort
+      Mariot Chauvin
    </copyright>
 
    <license url="http://www.apache.org/licenses/LICENSE-2.0">
