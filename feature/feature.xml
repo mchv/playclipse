@@ -2,7 +2,7 @@
 <feature
       id="org.playframework.playclipse.feature"
       label="Playclipse"
-      version="0.7.0"
+      version="1.0.0"
       provider-name="Play Framework">
 
    <description url="http://github.com/playframework/playclipse">
